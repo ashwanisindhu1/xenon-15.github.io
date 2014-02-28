@@ -46,11 +46,11 @@ body {
 }
 
 .avatar{
-    border:1px solid #eee;
-    padding:5px;
+    // border:1px solid #eee;
+    // padding:5px;
     margin:auto auto;
-    width:250px;
-    height:290px;
+    width:265px;
+    height:315px;
 }
 
 .avatar img{
